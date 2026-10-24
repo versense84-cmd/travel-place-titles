@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行视频中英文地名标注"
+  short_description: "结合素材 GPS、镜头画面和网络证据，为达芬奇添加可编辑中英文地名标题"
+  default_prompt: "使用 $travel-place-titles，为达芬奇当前时间线的旅行镜头核对地点并添加中英文地名。"
